@@ -1,0 +1,6 @@
+name = Agency One
+description = An ellie theme
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = css/styles.css
